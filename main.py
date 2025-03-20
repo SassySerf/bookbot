@@ -21,6 +21,6 @@ num_words = word_count(file_words)
 
 def main():
 
-    print(f"{num_words} words found in document")
+    print(f"{num_words} words found in the document")
 
 main()
