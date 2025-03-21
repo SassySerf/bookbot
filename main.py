@@ -25,7 +25,7 @@ def main():
     print("============ BOOKBOT ============")
     print("Analyzing book found at books/frankenstein.txt...")
     print("----------- Word Count ----------")
-    print(f"found {num_words} total words")
+    print(f"Found {num_words} total words")
     print("--------- Character Count -------")
     for i in sorted_count:
         print(f"{i['name']}: {i['num']}")
